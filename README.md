@@ -2,9 +2,7 @@
 
 _Salesforce Developer & Consultant based in Singapore_
 
-[LinkedIn](https://my.linkedin.com/in/victortzng)
-:iphone: +(65) 9770 9462
-:email: victorng8@gmail.com
+[LinkedIn](https://my.linkedin.com/in/victortzng) | :iphone: +(65) 9770 9462 | :email: victorng8@gmail.com
 
 ## Profile
 
@@ -18,6 +16,8 @@ At Ninja Van, my responsibilities include
 - Salesforce Development (Sales & Service Cloud) in Process Builder, Flow, Email Alerts, Visualforce Email Templates, Apex Trigger, Apex Class, Scheduled Apex, Batch Apex, LWC, Roles, Profiles, 
 - Salesforce CI/CD deployment using a third party tool called Flosum
 - Confluence Documentation Warden
+
+PropTech Assistant Manager @ [Shangri-la Group](https://www.shangri-la.com/) _(Sep 2019 – Oct 2020)_
 
 
 
