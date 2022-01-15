@@ -2,7 +2,9 @@
 
 _Salesforce Developer & Consultant based in Singapore_
 
-[LinkedIn](https://my.linkedin.com/in/victortzng) · +(65) 9770 9462 · [Email](mailto:victorng8@gmail.com)
+[LinkedIn](https://my.linkedin.com/in/victortzng)
+:iphone: +(65) 9770 9462
+:email: victorng8@gmail.com
 
 ## Profile
 
