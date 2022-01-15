@@ -17,7 +17,7 @@ At Ninja Van, my responsibilities include
 - Salesforce CI/CD deployment using a third party tool called Flosum
 - Confluence Documentation Warden
 
-Salesforce PropTech Assistant Manager @ [Shangri-la Group](https://www.shangri-la.com/) _(Sep 2019 – Oct 2020)_
+Salesforce PropTech Assistant Manager @ [Shangri-La Group](https://www.shangri-la.com/) _(Sep 2019 – Oct 2020)_
 
 
 
